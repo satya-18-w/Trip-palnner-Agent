@@ -1,0 +1,13 @@
+crewai
+streamlit
+unstructured
+pyown
+langchain
+langchain-community
+langchain-core
+tools
+requests>=2.31.0
+fastapi
+uvicorn
+pydantic
+python-dotenv
