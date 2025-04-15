@@ -56,7 +56,7 @@ class TripCrew:
         
         
 if __name__ == "__main__":
-    icon("🏖️ VacAIgent")
+    icon("🏖️ Vaccation planer AIgent")
     st.subheader("Let AI Agents Plan Your Next Vacation!",divider="rainbow",anchor=False)
     today=datetime.datetime.now()
     apr=datetime.date(today.year,4,20)
